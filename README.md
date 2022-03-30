@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Youssef El Kobi</h1>
+<h1 align="center" style="color: red" >Hi 👋, I'm Youssef El Kobi</h1>
 <h3 align="center">Chosen to be a student at 1337 coding school one of the international ‘42network’ schools, where I started learning multiple programming languages and technologies including Shell, C, Docker, PHP, JavaScript, Vue, React, Nodejs. Then web has caught my interest and I have been a full MERN Stack developer, built 20+ web projects and still counting</h3>
 
 - 🔭 I’m currently working on **Smart Restaurants management**
