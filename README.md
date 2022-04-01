@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Smart Restaurants management**
 
-- 🌱 I’m currently learning **React,**
+- 🌱 I’m currently learning **React,ES6**
 
 - 👯 I’m looking to collaborate on **Open-Source**
 
