@@ -1,6 +1,6 @@
 <h1 align="center" style="color: red" >Hi 👋, I'm Youssef El Kobi</h1>
 <h3 align="center">A student of 1337 coding school one of the international ‘42network’ schools, where I started learning multiple programming languages and technologies including Shell, C, Docker, PHP, JavaScript, Vue, React, Nodejs.</h3>
-
+![linkedin](https://img.shields.io/badge/Linkedin-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white)]
 - 🔭 I’m currently working on **Smart Restaurants management**
 
 - 🌱 I’m currently learning **React,ES6**
