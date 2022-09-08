@@ -1,4 +1,4 @@
-<h1 align="center" style="color: red" >Hi 👋, I'm Youssef El Kobi.<a href="https://komarev.com/ghpvc/?&username=youssef-kobi&color=dc143c"><img src="https://komarev.com/ghpvc/?&username=youssef-kobi&color=dc143c" /></a></h1> 
+<h1 style="color: red" >Hi 👋, I'm Youssef El Kobi. <a href="https://komarev.com/ghpvc/?&username=youssef-kobi&color=dc143c"><img src="https://komarev.com/ghpvc/?&username=youssef-kobi&color=dc143c&style=plastic" /></a></h1> 
 <h3 align="center">A student of 1337 coding school one of the international ‘42network’ schools, where I started learning multiple programming languages and technologies including Shell, C, Docker, PHP, JavaScript, Vue, React, Nodejs.</h3>
 
 <p dir="auto" align="center">
