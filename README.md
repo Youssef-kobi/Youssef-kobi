@@ -46,3 +46,4 @@
     <a target="_blank" rel="noopener noreferrer nofollow" href="https://img.shields.io/badge/docker-003f8c?style=for-the-badge&logo=docker&logoColor=white"><img src="https://img.shields.io/badge/docker-003f8c?style=for-the-badge&logo=docker&logoColor=white" alt="npm" data-canonical-src="https://img.shields.io/badge/docker-003f8c?style=for-the-badge&logo=docker&logoColor=white" style="max-width: 100%;">
     </a>
 </p>
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=youssef-kobi&theme=dark&hide_border=true)](https://git.io/streak-stats)
