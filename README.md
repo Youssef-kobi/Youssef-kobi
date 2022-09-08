@@ -3,19 +3,17 @@
 
 <p dir="auto" align="center">
     <a href="https://github.com/Youssef-kobi"><img src="https://camo.githubusercontent.com/503ebdcea35758fab52b522b6286fc3665be9ac371a3275cd79ee047a8b45627/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4769744875622d3030303030303f7374796c653d666f722d7468652d6261646765266c6f676f3d476974487562266c6f676f436f6c6f723d7768697465" alt="github" data-canonical-src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&amp;logo=GitHub&amp;logoColor=white" style="max-width: 100%;"></a> <a href="https://www.linkedin.com/in/youssef-el-kobi-7b5010211" rel="nofollow"><img src="https://camo.githubusercontent.com/269037ff67eb4a9774f2f9462aca436e5a09e80ccf6991702ccfd37eb773f8a4/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c696e6b6564696e2d3065373661383f7374796c653d666f722d7468652d6261646765266c6f676f3d4c696e6b6564696e266c6f676f436f6c6f723d7768697465" alt="linkedin" data-canonical-src="https://img.shields.io/badge/Linkedin-0e76a8?style=for-the-badge&amp;logo=Linkedin&amp;logoColor=white" style="max-width: 100%;"></a> <a href="mailto:youssefkobi@gmail.com"><img src="https://camo.githubusercontent.com/ea8fe6f5315428a5d9f88080c26968425b7f69860d897aa58078f50d9bfb033b/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f476d61696c2d6666303030303f7374796c653d666f722d7468652d6261646765266c6f676f3d476d61696c266c6f676f436f6c6f723d7768697465" alt="gmail" data-canonical-src="https://img.shields.io/badge/Gmail-ff0000?style=for-the-badge&amp;logo=Gmail&amp;logoColor=white" style="max-width: 100%;"></a> <a href="https://dev.to/youssefkobi" rel="nofollow"><img src="https://camo.githubusercontent.com/2260d096940ea9244c51ac47a7079d4b9d1e60c7df7da17e7df7806b73193865/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4465762e746f2d3030303030303f7374796c653d666f722d7468652d6261646765266c6f676f3d4465762e746f266c6f676f436f6c6f723d7768697465" alt="dev.to" data-canonical-src="https://img.shields.io/badge/Dev.to-000000?style=for-the-badge&amp;logo=Dev.to&amp;logoColor=white" style="max-width: 100%;"></a> <a href="https://vercel.app/" rel="nofollow"><img src="https://camo.githubusercontent.com/11ebe63f854a19e9867bac1827ab118590ceb215581e4d4f29776278d089b76b/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f506f7274666f6c696f2d3464316137663f7374796c653d666f722d7468652d6261646765266c6f676f3d506f7274666f6c696f266c6f676f436f6c6f723d7768697465" alt="portfolio" data-canonical-src="https://img.shields.io/badge/Portfolio-4d1a7f?style=for-the-badge&amp;logo=Portfolio&amp;logoColor=white" style="max-width: 100%;"></a> <a href="https://twitter.com/YoussefElKobi" rel="nofollow"><img src="https://camo.githubusercontent.com/d4a206297cb79f1e660b8c739f0922b9e9ed6172e97f1aedf5c17d320f46afa5/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f547769747465722d3144413146323f7374796c653d666f722d7468652d6261646765266c6f676f3d54776974746572266c6f676f436f6c6f723d7768697465" alt="twitter" data-canonical-src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&amp;logo=Twitter&amp;logoColor=white" style="max-width: 100%;"></a></p>
-- 🔭 I’m currently working on **Smart Restaurants management**
+<ul>
 
-- 🌱 I’m currently learning **React,ES6**
+</ul>
+<li>🔭 I’m currently working on **Smart Restaurants management**</li>
+<li>🌱 I’m currently learning **React,ES6**</li>
+<li>👯 I’m looking to collaborate on **Open-Source**</li>
+<li>📝 I regularly write articles on [dev.to](dev.to)</li>
+<li>💬 Ask me about **ReactJs, Best coding practices**</li>
+<li>📫 How to reach me **Youssefkobi@gmail.com**</li>
 
-- 👯 I’m looking to collaborate on **Open-Source**
-
-- 📝 I regularly write articles on [dev.to](dev.to)
-
-- 💬 Ask me about **ReactJs, Best coding practices**
-
-- 📫 How to reach me **Youssefkobi@gmail.com**
-
-<h3 align="left">Languages and Tools:</h3>
+<h1 align="left">Technology Stack and Tools:</h1>
 <p dir="auto" align="center">
     <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/18fdfe68e14045b5a8b154d5d1a4a1e7d505664ec9399268d174fa05569a2519/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f48746d6c2d7265643f7374796c653d666f722d7468652d6261646765266c6f676f3d48746d6c35266c6f676f436f6c6f723d7768697465"><img src="https://camo.githubusercontent.com/18fdfe68e14045b5a8b154d5d1a4a1e7d505664ec9399268d174fa05569a2519/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f48746d6c2d7265643f7374796c653d666f722d7468652d6261646765266c6f676f3d48746d6c35266c6f676f436f6c6f723d7768697465" alt="html" data-canonical-src="https://img.shields.io/badge/Html-red?style=for-the-badge&amp;logo=Html5&amp;logoColor=white" style="max-width: 100%;">
     </a>
