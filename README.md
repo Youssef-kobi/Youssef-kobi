@@ -46,4 +46,5 @@
     <a target="_blank" rel="noopener noreferrer nofollow" href="https://img.shields.io/badge/docker-003f8c?style=for-the-badge&logo=docker&logoColor=white"><img src="https://img.shields.io/badge/docker-003f8c?style=for-the-badge&logo=docker&logoColor=white" alt="npm" data-canonical-src="https://img.shields.io/badge/docker-003f8c?style=for-the-badge&logo=docker&logoColor=white" style="max-width: 100%;">
     </a>
 </p>
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=youssef-kobi&theme=dark&hide_border=true)](https://git.io/streak-stats)
+<a href="https://git.io/streak-stats" ><img src="http://github-readme-streak-stats.herokuapp.com?user=youssef-kobi&theme=dark&hide_border=true" /></a>
+<a href="https://github-readme-stats.vercel.app/api?username=youssef-kobi&show_icons=true&hide=stars" ><img src="https://github-readme-stats.vercel.app/api?username=youssef-kobi&show_icons=true&hide=stars" /></a>
