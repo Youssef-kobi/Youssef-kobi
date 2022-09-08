@@ -48,6 +48,6 @@
 </p>
 <div align="center">
 <a href="https://git.io/streak-stats" ><img align="center" style="height: auto; width: 45%;" src="http://github-readme-streak-stats.herokuapp.com?user=youssef-kobi&theme=dark&hide_border=true&theme=tokyonight" /></a>
-<a href="https://github-readme-stats.vercel.app/api?username=youssef-kobi&show_icons=true&hide=stars" ><img style="height: auto; width: 45%;" align="center" src="https://github-readme-stats.vercel.app/api?username=youssef-kobi&show_icons=true&hide=stars&theme=tokyonight&count_private=true&hide_border=true" /></a>
+<a href="https://github-readme-stats.vercel.app/api?username=youssef-kobi&show_icons=true&hide=stars" ><img style="height: auto; width: 45%;" align="center" src="https://github-readme-stats.vercel.app/api?username=youssef-kobi&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" /></a>
 </div>
 
