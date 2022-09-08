@@ -46,12 +46,8 @@
     <a target="_blank" rel="noopener noreferrer nofollow" href="https://img.shields.io/badge/docker-003f8c?style=for-the-badge&logo=docker&logoColor=white"><img src="https://img.shields.io/badge/docker-003f8c?style=for-the-badge&logo=docker&logoColor=white" alt="npm" data-canonical-src="https://img.shields.io/badge/docker-003f8c?style=for-the-badge&logo=docker&logoColor=white" style="max-width: 100%;">
     </a>
 </p>
-<a href="https://git.io/streak-stats" ><img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=youssef-kobi&theme=dark&hide_border=true" /></a>
-<a href="https://github-readme-stats.vercel.app/api?username=youssef-kobi&show_icons=true&hide=stars" ><img align="center" src="https://github-readme-stats.vercel.app/api?username=youssef-kobi&show_icons=true&hide=stars" /></a>
+<div align="center">
+<a href="https://git.io/streak-stats" ><img align="center" style="height: auto; width: 45%;" src="http://github-readme-streak-stats.herokuapp.com?user=youssef-kobi&theme=dark&hide_border=true&theme=tokyonight" /></a>
+<a href="https://github-readme-stats.vercel.app/api?username=youssef-kobi&show_icons=true&hide=stars" ><img style="height: auto; width: 45%;" align="center" src="https://github-readme-stats.vercel.app/api?username=youssef-kobi&show_icons=true&hide=stars&theme=tokyonight&count_private=true&hide_border=true" /></a>
+</div>
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
-</a>
