@@ -1,6 +1,39 @@
 <h1 style="color: red" >Hi 👋, I'm Youssef El Kobi. <a href="https://komarev.com/ghpvc/?&username=youssef-kobi&color=dc143c"><img src="https://komarev.com/ghpvc/?&username=youssef-kobi&color=dc143c&style=plastic" /></a></h1> 
-<h3 align="center">A student of 1337 coding school one of the international ‘42network’ schools, where I started learning multiple programming languages and technologies including Shell, C, Docker, PHP, JavaScript, Vue, React, Nodejs.</h3>
+<h1 align="center">
+  <br>
+  Welcome to my GitHub profile 
+  <br>
+</h1>
+<p>
+  I am a highly skilled and experienced full-stack developer specializing in React, MongoDB, Node, Express, Next.js, and JavaScript. I have a deep understanding of these technologies and know how to use them to build robust and scalable applications. I am also familiar with other languages such as Shell, C, Docker, PHP, and Vue. I am a proud graduate of 1337 coding school, one of the most prestigious and selective coding schools in the world, and part of the 42 network of coding schools, which are renowned for their innovative and intensive approach to education. My education at 1337 has given me the skills and knowledge to become a top-performing developer.
+</p>
+<h2 align="center">
+  <br>
+  <img src="https://icongr.am/jam/folder-open.svg?size=30&color=333333" alt="folder-open" width="40"/>
+  My Repositories 
+  <br>
+</h2>
 
+<p>
+  I have several public repositories on my GitHub profile, each one representing a different project. You can take a look at my public repositories to learn more about my skills, experience and projects I've worked on.
+</p>
+<h2 align="center">
+  <br>
+  <img src="https://icongr.am/jam/cogs.svg?size=30&color=333333" alt="cogs" width="40"/>
+  My Skills
+  <br>
+</h2>
+
+<p>Expertise: React, MongoDB, Node, Express, Next.js, JavaScript and Firebase.</p>
+<p>Other languages: Shell, C, Docker, PHP, Vue, and more.</p>
+
+<h2 align="center">
+  <br>
+  <img src="https://icongr.am/jam/envelope.svg?size=30&color=333333" alt="envelope" width='40' />
+  Contact me
+  <br>
+</h2>
+       
 <p dir="auto" align="center">
     <a href="https://github.com/Youssef-kobi"><img src="https://camo.githubusercontent.com/503ebdcea35758fab52b522b6286fc3665be9ac371a3275cd79ee047a8b45627/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4769744875622d3030303030303f7374796c653d666f722d7468652d6261646765266c6f676f3d476974487562266c6f676f436f6c6f723d7768697465" alt="github" data-canonical-src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&amp;logo=GitHub&amp;logoColor=white" style="max-width: 100%;"></a> <a href="https://www.linkedin.com/in/youssef-elkobi" rel="nofollow"><img src="https://camo.githubusercontent.com/269037ff67eb4a9774f2f9462aca436e5a09e80ccf6991702ccfd37eb773f8a4/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c696e6b6564696e2d3065373661383f7374796c653d666f722d7468652d6261646765266c6f676f3d4c696e6b6564696e266c6f676f436f6c6f723d7768697465" alt="linkedin" data-canonical-src="https://img.shields.io/badge/Linkedin-0e76a8?style=for-the-badge&amp;logo=Linkedin&amp;logoColor=white" style="max-width: 100%;"></a> <a href="mailto:youssefkobi@gmail.com"><img src="https://camo.githubusercontent.com/ea8fe6f5315428a5d9f88080c26968425b7f69860d897aa58078f50d9bfb033b/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f476d61696c2d6666303030303f7374796c653d666f722d7468652d6261646765266c6f676f3d476d61696c266c6f676f436f6c6f723d7768697465" alt="gmail" data-canonical-src="https://img.shields.io/badge/Gmail-ff0000?style=for-the-badge&amp;logo=Gmail&amp;logoColor=white" style="max-width: 100%;"></a> <a href="https://dev.to/youssefkobi" rel="nofollow"><img src="https://camo.githubusercontent.com/2260d096940ea9244c51ac47a7079d4b9d1e60c7df7da17e7df7806b73193865/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4465762e746f2d3030303030303f7374796c653d666f722d7468652d6261646765266c6f676f3d4465762e746f266c6f676f436f6c6f723d7768697465" alt="dev.to" data-canonical-src="https://img.shields.io/badge/Dev.to-000000?style=for-the-badge&amp;logo=Dev.to&amp;logoColor=white" style="max-width: 100%;"></a> <a href="https://vercel.app/" rel="nofollow"><img src="https://camo.githubusercontent.com/11ebe63f854a19e9867bac1827ab118590ceb215581e4d4f29776278d089b76b/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f506f7274666f6c696f2d3464316137663f7374796c653d666f722d7468652d6261646765266c6f676f3d506f7274666f6c696f266c6f676f436f6c6f723d7768697465" alt="portfolio" data-canonical-src="https://img.shields.io/badge/Portfolio-4d1a7f?style=for-the-badge&amp;logo=Portfolio&amp;logoColor=white" style="max-width: 100%;"></a> <a href="https://twitter.com/YoussefElKobi" rel="nofollow"><img src="https://camo.githubusercontent.com/d4a206297cb79f1e660b8c739f0922b9e9ed6172e97f1aedf5c17d320f46afa5/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f547769747465722d3144413146323f7374796c653d666f722d7468652d6261646765266c6f676f3d54776974746572266c6f676f436f6c6f723d7768697465" alt="twitter" data-canonical-src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&amp;logo=Twitter&amp;logoColor=white" style="max-width: 100%;"></a></p>
 <ul>
