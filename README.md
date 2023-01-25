@@ -7,29 +7,26 @@
 <p>
   I am a highly skilled and experienced full-stack developer specializing in React, MongoDB, Node, Express, Next.js, and JavaScript. I have a deep understanding of these technologies and know how to use them to build robust and scalable applications. I am also familiar with other languages such as Shell, C, Docker, PHP, and Vue. I am a proud graduate of 1337 coding school, one of the most prestigious and selective coding schools in the world, and part of the 42 network of coding schools, which are renowned for their innovative and intensive approach to education. My education at 1337 has given me the skills and knowledge to become a top-performing developer.
 </p>
+  <br>
 <h2 align="center">
-  <br>
-  <img src="https://icongr.am/jam/folder-open.svg?size=30&color=333333" alt="folder-open" width="40"/>
+  <img src="https://icongr.am/jam/folder-open.svg?size=30&color=333333" alt="folder-open" width="40" style="vertical-align:middle;"/>
   My Repositories 
-  <br>
 </h2>
-
+  <br>
 <p>
   I have several public repositories on my GitHub profile, each one representing a different project. You can take a look at my public repositories to learn more about my skills, experience and projects I've worked on.
 </p>
 <h2 align="center">
   <br>
-  <img src="https://icongr.am/jam/cogs.svg?size=30&color=333333" alt="cogs" width="40"/>
+  <img src="https://icongr.am/jam/cogs.svg?size=30&color=333333" alt="cogs" width="40" style="vertical-align:middle;"/>
   My Skills
   <br>
 </h2>
-
 <p>Expertise: React, MongoDB, Node, Express, Next.js, JavaScript and Firebase.</p>
 <p>Other languages: Shell, C, Docker, PHP, Vue, and more.</p>
-
 <h2 align="center">
   <br>
-  <img src="https://icongr.am/jam/envelope.svg?size=30&color=333333" alt="envelope" width='40' />
+  <img src="https://icongr.am/jam/envelope.svg?size=30&color=333333" alt="envelope" width='40' style="vertical-align:middle;"/>
   Contact me
   <br>
 </h2>
